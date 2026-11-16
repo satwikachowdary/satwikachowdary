@@ -3,7 +3,7 @@
 **AI/ML Engineer** in Boston, building LLM applications with Python. M.S. in Computer Science from UMass Boston (May 2026).
 
 ## 🔭 What I'm working on
-- **AI & Digital Transformation Engineer at True Blue Plumbing and Heating.** I designed and launched the company's mobile-first website (Next.js, React, TypeScript).
+- **AI & Digital Transformation Engineer at True Blue Plumbing and Heating.** I build and launched the company's mobile-first website (Next.js, React, TypeScript).
 - **Building an LLM customer-service chatbot (in progress)** that answers questions about services, pricing and scheduling from a structured company knowledge base, and routes new inquiries to the office.
 
 ## 🛠️ Tech stack
@@ -16,7 +16,7 @@
 ## 📌 Featured projects
 
 ### [Massachusetts Drought Forecasting](https://github.com/satwikachowdary/massachusetts-drought-forecasting)
-A 3-state Markov chain forecaster built on 26 years of weekly U.S. Drought Monitor data, with Laplace-smoothed transition probabilities. On held-out 2021 data it predicts next week's drought state with **0.93 macro-F1** (log loss 0.18, Brier score 0.08).
+A 3-state Markov chain forecaster for Massachusetts drought, built on weekly U.S. Drought Monitor data. On held-out 2021 data it reaches 0.93 macro-F1 (log loss 0.18, Brier score 0.08).
 `Python` `Pandas` `NumPy` `scikit-learn`
 
 ### [Student Performance Analytics & Prediction](https://github.com/satwikachowdary/student-performance-analytics)
@@ -24,7 +24,7 @@ Analysis of 500+ student records to measure how sleep and study habits relate to
 `Python` `Pandas` `scikit-learn` `PHP`
 
 ## 🌱 Beyond code
-- President, **Women in Tech Club**, UMass Boston: tech talks and networking events for 50+ members
+- President, Women in Tech Club, Siddartha Institute of Science and Technology: organized tech talks and networking events for women engineering students
 - Sole TA for Theory of Computation (120+ students)
 - Publication: *"Water Quality and Pipeline Monitoring System Using IoT,"* IJSRED, 2023
 
